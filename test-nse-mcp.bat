@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableExtensions
 
-REM ------------------------------------------------------------
+REM Check------------------------------------------------------------
 REM  test-nse-mcp.bat
 REM  Tests both NSE MCP servers (no token needed, they use No Auth):
 REM    1. Bhavcopy  : https://mcp.nseindia.in/bhavcopy/cm/mcp
